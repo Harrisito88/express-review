@@ -9,10 +9,14 @@
 - Create an express server that will listen on port 3003
 - Give it some middleware
 
+on index.js
+
 ## Step 2
-- Create a get route to return all restaurants 
+- Create a get route to return all restaurants
 - Create a get route to return a specific restaurant
 - Test via Postman
+
+controller.js
 
 ## Step 3
 - Create a post route to add a restaurant
